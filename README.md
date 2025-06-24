@@ -38,6 +38,7 @@ $ pnpm install
 # development
 $ pnpm run start
 
+
 # watch mode
 $ pnpm run start:dev
 
